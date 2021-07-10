@@ -1,0 +1,50 @@
+.head {
+    font-size: larger;
+    display: flex;
+    background-color: blanchedalmond;
+}
+
+.t1 {
+    margin-left: 10px;
+}
+
+.t2 {
+    margin-left: 55%;
+    word-spacing: 15px;
+}
+
+.but {
+    margin-left: 10%;
+}
+
+.im {
+    background-position: center;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.photo {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 3%;
+    top: 10%;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+}
+
+.name {
+    position: absolute;
+    top: 20%;
+    left: 4%;
+}
+
+.me {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
